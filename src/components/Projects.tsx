@@ -8,7 +8,7 @@ const projects = [
     description: "Real-time speech-to-speech chatbot emulating Vito Corleone's voice using fine-tuned Piper TTS, Deepgram STT, and OpenAI LLM with LiveKit for realtime voice-chat.",
     tags: ["Deepgram STT", "Piper TTS", "OpenAI", "LiveKit", "WebRTC"],
     featured: true,
-    hasdemo: true,
+    hasDemo: true,
     demo: "https://www.youtube.com/watch?v=-FA5YaJAkvQ",
     hasGithub: true,
     github: "https://github.com/pm-ju/vito-voicebot",
